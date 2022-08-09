@@ -6,4 +6,6 @@ It includes the feeding and flight wrapper functions, and some basic operations 
 
 It uses demonstration data from 2021-12-01 through 2022-06-01, just to limit it to a manageable size.
 
+As with any other code using the vultureUtils package, you need to authenticate using your own login to movebank. I have my password saved in the movebankCredentials/ folder, which I have not pushed to GitHub for obvious reasons (then you would have my password!). To access the data and run this code, you would need to create that folder yourself and save your own password.
+
 Created by Kaija Gahm.
